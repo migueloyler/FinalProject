@@ -1,0 +1,422 @@
+Canada
+(1314, 1314)
+Fiji
+(992, 981)
+Turkmenistan
+(1089, 1089)
+Korea Republic
+(1462, 1451)
+Lithuania
+(1102, 1111)
+Sao Tome e Principe
+(920, 920)
+Cambodia
+(967, 970)
+Ethiopia
+(1049, 1049)
+Aruba
+(909, 916)
+Sri Lanka
+(886, 886)
+Grenada
+(973, 968)
+Palestine
+(1224, 1224)
+Argentina
+(1580, 1582)
+Bolivia
+(1366, 1374)
+Cameroon
+(1399, 1394)
+Burkina Faso
+(1380, 1371)
+Ghana
+(1423, 1412)
+Saudi Arabia
+(1342, 1344)
+Laos
+(923, 923)
+Republic of Ireland
+(1484, 1474)
+Montserrat
+(895, 887)
+Slovenia
+(1366, 1369)
+Guatemala
+(1074, 1061)
+Bosnia and Herzegovina
+(1478, 1472)
+Korea DPR
+(1152, 1152)
+Jordan
+(1229, 1238)
+St. Lucia
+(975, 976)
+Spain
+(1601, 1591)
+Liberia
+(1044, 1051)
+Netherlands
+(1554, 1560)
+FYR Macedonia
+(1350, 1343)
+Pakistan
+(888, 888)
+Oman
+(1277, 1273)
+Tanzania
+(1105, 1087)
+Seychelles
+(908, 911)
+Gabon
+(1272, 1277)
+Bahamas
+(855, 858)
+Samoa
+(896, 896)
+New Zealand
+(1157, 1157)
+Yemen
+(1073, 1073)
+Jamaica
+(1391, 1404)
+Albania
+(1368, 1372)
+England
+(1647, 1631)
+Chinese Taipei
+(1128, 1134)
+Macau
+(925, 925)
+United Arab Emirates
+(1360, 1355)
+Guam
+(907, 907)
+Kosovo
+(1124, 1113)
+India
+(1219, 1219)
+Azerbaijan
+(1202, 1206)
+Madagascar
+(1203, 1209)
+Lesotho
+(1075, 1069)
+Kenya
+(1202, 1210)
+Tajikistan
+(1155, 1155)
+Turkey
+(1457, 1443)
+Afghanistan
+(1057, 1066)
+Czech Republic
+(1424, 1435)
+Eritrea
+(868, 868)
+Solomon Islands
+(1083, 1073)
+Turks and Caicos Islands
+(862, 864)
+San Marino
+(848, 854)
+Mongolia
+(915, 915)
+France
+(1734, 1726)
+Rwanda
+(1088, 1094)
+Slovakia
+(1482, 1483)
+Somalia
+(868, 868)
+Peru
+(1516, 1518)
+Vanuatu
+(991, 996)
+Norway
+(1420, 1425)
+Malawi
+(1122, 1115)
+Cook Islands
+(908, 908)
+Benin
+(1267, 1257)
+Singapore
+(998, 991)
+Montenegro
+(1419, 1427)
+Togo
+(1127, 1136)
+Armenia
+(1206, 1222)
+Timor-Leste
+(900, 900)
+Dominican Republic
+(1028, 1036)
+Ukraine
+(1493, 1482)
+Bahrain
+(1188, 1188)
+Tonga
+(868, 868)
+Indonesia
+(1008, 1003)
+Libya
+(1207, 1217)
+Finland
+(1375, 1375)
+Central African Republic
+(1184, 1180)
+Mauritius
+(1022, 1022)
+Sweden
+(1567, 1560)
+Belarus
+(1301, 1317)
+British Virgin Islands
+(867, 867)
+Mali
+(1365, 1363)
+Congo DR
+(1425, 1420)
+Russia
+(1425, 1424)
+Bulgaria
+(1419, 1425)
+Romania
+(1496, 1501)
+IR Iran
+(1516, 1516)
+Portugal
+(1607, 1614)
+South Africa
+(1335, 1325)
+St. Vincent and the Grenadines
+(954, 946)
+Nicaragua
+(1120, 1119)
+Liechtenstein
+(932, 937)
+Malaysia
+(986, 985)
+Austria
+(1479, 1509)
+Vietnam
+(1227, 1227)
+Mozambique
+(1166, 1167)
+Uganda
+(1302, 1320)
+Kyrgyz Republic
+(1253, 1253)
+Hungary
+(1419, 1412)
+Niger
+(1209, 1205)
+Brazil
+(1676, 1676)
+Faroe Islands
+(1213, 1238)
+Guinea
+(1350, 1354)
+Panama
+(1327, 1324)
+Guyana
+(959, 951)
+Scotland
+(1430, 1446)
+Costa Rica
+(1458, 1461)
+Luxembourg
+(1277, 1276)
+American Samoa
+(908, 908)
+Andorra
+(1099, 1111)
+Gibraltar
+(900, 905)
+Wales
+(1539, 1525)
+Nigeria
+(1435, 1427)
+Ecuador
+(1378, 1382)
+Bangladesh
+(909, 907)
+US Virgin Islands
+(888, 881)
+Australia
+(1441, 1441)
+Bhutan
+(917, 917)
+Algeria
+(1348, 1349)
+El Salvador
+(1344, 1327)
+St. Kitts and Nevis
+(1096, 1105)
+Chile
+(1559, 1565)
+Puerto Rico
+(940, 948)
+Belgium
+(1737, 1727)
+Thailand
+(1174, 1169)
+Haiti
+(1223, 1219)
+Iraq
+(1319, 1310)
+Hong Kong
+(1078, 1078)
+Sierra Leone
+(1172, 1172)
+China PR
+(1327, 1339)
+Georgia
+(1256, 1269)
+Denmark
+(1586, 1589)
+Poland
+(1535, 1518)
+Moldova
+(974, 979)
+Morocco
+(1429, 1440)
+Croatia
+(1621, 1634)
+Guinea-Bissau
+(1158, 1158)
+Switzerland
+(1604, 1599)
+Angola
+(1142, 1131)
+Cape Verde Islands
+(1319, 1325)
+Belize
+(994, 1002)
+Chad
+(956, 956)
+Estonia
+(1240, 1246)
+Uruguay
+(1613, 1609)
+Equatorial Guinea
+(1074, 1063)
+Lebanon
+(1277, 1277)
+Uzbekistan
+(1279, 1275)
+Egypt
+(1384, 1393)
+Djibouti
+(896, 896)
+Bermuda
+(959, 952)
+Antigua and Barbuda
+(1136, 1126)
+Dominica
+(954, 950)
+Colombia
+(1573, 1575)
+Burundi
+(1089, 1085)
+Eswatini
+(1074, 1078)
+Cyprus
+(1276, 1276)
+Barbados
+(996, 998)
+Qatar
+(1398, 1398)
+Italy
+(1550, 1539)
+Curacao
+(1296, 1306)
+USA
+(1506, 1501)
+Sudan
+(1106, 1120)
+Nepal
+(996, 1001)
+Malta
+(943, 926)
+Brunei Darussalam
+(903, 903)
+Kuwait
+(1022, 1018)
+Maldives
+(1046, 1046)
+Suriname
+(1045, 1037)
+Cayman Islands
+(867, 874)
+Anguilla
+(857, 864)
+Venezuela
+(1484, 1478)
+Israel
+(1285, 1265)
+Iceland
+(1450, 1451)
+Zambia
+(1302, 1292)
+Senegal
+(1515, 1505)
+Papua New Guinea
+(984, 984)
+Zimbabwe
+(1190, 1175)
+Germany
+(1570, 1558)
+Gambia
+(994, 986)
+Kazakhstan
+(1171, 1159)
+Philippines
+(1135, 1135)
+Mauritania
+(1210, 1222)
+Tahiti
+(1020, 1020)
+Northern Ireland
+(1481, 1465)
+New Caledonia
+(1026, 1036)
+Trinidad and Tobago
+(1258, 1260)
+Latvia
+(1101, 1112)
+South Sudan
+(989, 994)
+Japan
+(1494, 1495)
+Syria
+(1286, 1286)
+Côte d'Ivoire
+(1365, 1356)
+Honduras
+(1369, 1369)
+Myanmar
+(1080, 1085)
+Mexico
+(1549, 1540)
+Tunisia
+(1491, 1493)
+Cuba
+(961, 963)
+Serbia
+(1484, 1481)
+Botswana
+(1060, 1071)
+Congo
+(1265, 1280)
+Greece
+(1433, 1428)
+Paraguay
+(1467, 1476)
+Namibia
+(1181, 1191)
+Comoros
+(1071, 1076)
